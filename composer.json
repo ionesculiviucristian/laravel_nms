@@ -3,6 +3,7 @@
     "description": "Nested model set implementation for the Laravel 5+ framework.",
     "version": "1.0.0",
     "type": "library",
+    "minimum-stability": "dev",
     "authors": [
         {
             "name": "Ionescu Liviu Cristian",
